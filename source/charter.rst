@@ -3,7 +3,7 @@ Charter
 
 Created: July 22, 2021
 
-Last updated: June 28, 2022
+Last updated: November 10, 2026
 
 Science Context
 ---------------
@@ -32,13 +32,13 @@ Mission Drivers
 
 The majority of high-energy spectroscopic data analysis hinges on the visualization
 and fitting of 1D histograms of X-ray data (0.1 - 150 keV), typically measured in
-instrument-specific ‘counts’. Time variability of these datasets is minimally
+instrument-specific "counts". Time variability of these datasets is minimally
 addressed and has not yet converged on a standard tool or procedure. Next generation
 astronomical X-ray technologies include (1) the ability to obtain high resolution
 spectroscopic datacubes for a 2D image where each pixel is a spectrum, potentially
-time-variable, and (2) a factor of 3-50 increase in spectroscopic resolution. Further
-advances in X-ray instrumentation will also soon allow for the examination of X-ray
-polarization. All of these factors increase the size, complexity, and computational
+time-variable, and (2) a factor of 3-50 increase in spectroscopic resolution.
+X-ray polarization has also become an important area of study.
+All of these factors increase the size, complexity, and computational
 resources needed to interpret future datasets. HEACIT seeks to identify gaps in the
 current software landscape and encourage development of tools that will enable the
 maximal science return of next generation X-ray observatories.
@@ -74,9 +74,9 @@ expectation is that membership will be reviewed every three years. In the case o
 a Steering Committee member vacating their position, self nominations will be
 solicited from the HEACIT membership. Such nominations should include a brief
 explanation of why the individual wishes to join the Steering Committee of the
-HEACIT and what they’d bring to the Committee.
+HEACIT and what they'd bring to the Committee.
 
-The inaugural Chair is Lia Corrales, and the inaugural members of the Steering
+The inaugural Chair was Lia Corrales, and the inaugural members of the Steering
 Committee are Randall Smith, Michael Wise, and Tess Jaffe.
 
 Individual tasks will be led by specified members of HEACIT, who will be responsible
@@ -85,8 +85,8 @@ for managing the subgroup.
 Rules of Conduct
 ----------------
 
-- All group members agree to abide by the code of ethics and anti-harassment rules as
-  set forth by the AAS, which has also been adopted for HEAD meetings. Incidents can
+- All group members agree to abide by the `code of ethics and anti-harassment rules as
+  set forth by the AAS <https://aas.org/policies/ethics>`_, which has also been adopted for HEAD meetings. Incidents can
   be brought to any member of the Steering Committee. Violations can lead to a verbal
   warning or removal from HEACIT.
 
@@ -94,14 +94,15 @@ Rules of Conduct
   respect. Discussions relating to pros/cons of various technologies, programming
   languages, and so on are welcome, but these should be done with respect, taking
   proactive measures to ensure that all participants are heard and feel confident
-  that they can freely express their opinions. All group members agree not to promote or deride any particular software tools as  inherently “better” or  “worse” than others.
+  that they can freely express their opinions. All group members agree not to promote
+  or deride any particular software tools as inherently “better” or  “worse” than others.
 
 - HEACIT is not a research team unto itself. However, individual members may choose to
-  collaborate and form research groups as a result of HEACIT discussions. Such
+  collaborate and form research groups or projects as a result of HEACIT discussions. Such
   collaboration is understandable and encouraged.
 
 - Communication regarding HEACIT meetings and tasks will primarily be done via the
-  HEACIT mailing list that will include all members and via a monthly telecon.
+  HEACIT mailing list that will include all members and via telecons.
   Members are encouraged to take HEACIT discussions regarding specific software
   tools and problems to the forum (Task #4) so that the conversation can be publicly
   accessible, archived, and searchable.
@@ -113,14 +114,11 @@ Rules of Conduct
   list as endorsers. It is recommended that the lead and corresponding author be listed
   as the first author on the paper.
 
-- HEACIT will have a shared Google Drive folder to facilitate information distribution.
-  This site will be available to all members.
-
 Membership Policy
 -----------------
 
 Community members will be directly invited to become a HEACIT member by deliberation
-of the Steering Committee. Anyone can submit a nomination by notifying  the Chair,
+of the Steering Committee. Anyone can submit a nomination by notifying the Chair,
 who will provide the instructions to the nominee for applying for HEACIT Membership.
 Self-nominations are allowed and encouraged; simply fill out the application form
 linked on the :ref:`Membership` page. The application responses go directly to the
